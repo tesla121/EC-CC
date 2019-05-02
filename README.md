@@ -51,4 +51,4 @@ All code files are written R. We shall provide instructions for running the same
 
 ------------
 
-More of this can be found in the paper "A Revisit to the Source Identification Problem under Classical Graph Centrality Measures".
+More on this can be found in the paper "A Revisit to the Source Identification Problem under Classical Graph Centrality Measures".
